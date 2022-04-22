@@ -1,0 +1,55 @@
+body {background:url("egg_shell.jpg");}
+#three{ background: -moz-linear-gradient(red,white, blue);​ background: -o-linear-gradient(red,white, blue); background: -webkit-linear-gradient(red,white, blue);​ background: linear-gradient(red,white, blue);​}
+#p1{text-align: center;}
+#p2{text-align: center;}
+#p3{text-align: center;}
+#p4{text-align: center;}
+#p5{text-align: center;}
+#p6{text-align: center;}
+#p7{text-align: center;}
+#p8{text-align: center;}
+#p9{text-align: center;}
+#p10{text-align: center;}
+#p11{text-align: center;}
+#p12{text-align: right;}
+#p13{text-align: right;}
+#p14{text-align: right;}
+#h1{text-align: center;}
+#h2{text-align: center;}
+#h3{text-align: center;}
+#h4{text-align: center;}
+#h5{text-align: center;}
+#th1{rowspan: 2; align: left; padding:4;}
+#th2{colspan: 4; padding:4;}
+#th3{colspan: 4; padding:4;}
+#th4{text-align: left; padding:4;}
+#th5{text-align: left; padding:4;}
+#th6{text-align: left; padding:4;}
+#th7{text-align: left; padding:4;}
+#th8{text-align: left; padding:4;}
+#th9{text-align: left; padding:4;}
+#th10{text-align: left; padding:4;}
+#th11{text-align: left; padding:4;}
+#td1{text-align: left; padding:4;}
+#td2{text-align: left; padding:4;}
+#td3{text-align: left; padding:4;}
+#td4{text-align: left; padding:4;}
+#t1{border-style: solid; border-width:4; spacing:0; padding:4; width:1400px; align:center;}
+#t2{border:1px solid black; width:12%;}
+hr.one {border-top: 1px solid orange;}
+#textman{position:absolute; left:170px; width:930px; height:333px; border:1px solid black;}
+#imgs1{width:75px; height:50px;}
+#imgs2{width:75px; height:50px;}
+#imgs3{width:75px; height:50px;}
+#imgs4{width:75px; height:50px;}
+#imgs5{width:75px; height:50px;}
+#imgs6{width:75px; height:50px;}
+#border{position:absolute; width:156px; height:338px; border:1px solid black;}
+#b1{position:absolute; top:205px; left:10px; width:150px; height:50px; border:2px solid black; background-color:white; text-align:center}
+#b2{position:absolute; top:260px; left:10px; width:150px; height:50px; border:2px solid black; background-color:white; text-align:center}
+#b3{position:absolute; top:315px; left:10px; width:150px; height:50px; border:2px solid black; background-color:white; text-align:center}
+#b4{position:absolute; top:370px; left:10px; width:150px; height:50px; border:2px solid black; background-color:white; text-align:center}
+#b5{position:absolute; top:425px; left:10px; width:150px; height:50px; border:2px solid black; background-color:white; text-align:center}
+#b6{position:absolute; top:480px; left:10px; width:150px; height:50px; border:2px solid black; background-color:white; text-align:center}
+hr.two {border-top: 1px solid orange;}
+footer{position:relative; top:345px; text-align:center;}
