@@ -2,7 +2,7 @@
 
 These are some projects I've done
 - [Nomad Tours](html/Projects/Nomad%20Tours/)
-- [Pets](html/projects/Pets/)
+- [Pets](html/Projects/Pets/)
 - Thomas Jefferson
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
