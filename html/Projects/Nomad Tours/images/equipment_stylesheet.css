@@ -1,5 +1,5 @@
 body {background:url("egg_shell.jpg");}
-#three{ background: -moz-linear-gradient(red,white, blue);​ background: -o-linear-gradient(red,white, blue); background: -webkit-linear-gradient(red,white, blue);​ background: linear-gradient(red,white, blue);​}
+#three{ background: -moz-linear-gradient(red,white, blue);​ -o-linear-gradient(red,white, blue); background: -webkit-linear-gradient(red,white, blue);​background: linear-gradient(red,white, blue);​}
 #p1{text-align: center;}
 #p2{text-align: center;}
 #p3{text-align: center;}
