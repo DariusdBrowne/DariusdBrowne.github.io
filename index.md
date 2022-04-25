@@ -1,4 +1,5 @@
 **This is my github page**	
+It's a work in progress, and it will hopefully be better with time
 
 These are some projects I've done
 - [Nomad Tours](html/Projects/Nomad%20Tours/)
